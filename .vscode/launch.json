@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "frm01",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "secuenciales.frm01",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm02",
+            "request": "launch",
+            "mainClass": "secuenciales.frm02",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm05",
+            "request": "launch",
+            "mainClass": "secuenciales.frm05",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm06",
+            "request": "launch",
+            "mainClass": "secuenciales.frm06",
+            "projectName": "appFP_xyz"
+        }
+    ]
+}
