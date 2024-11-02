@@ -59,28 +59,23 @@ public class frm05 extends JFrame {
     protected void btnCalcular_actionPerformed() {
         int numero = Integer.parseInt(txtNumero.getText());
 
-        // Obtener las cifras
         int unidad = numero % 10;
         int decena = (numero / 10) % 10;
         int centena = (numero / 100) % 10;
         int millar = numero / 1000;
 
-        // Encontrar la mayor cifra
-        int mayor = millar; // Inicializamos con millar
+        int mayor = millar; 
         if (decena > mayor) mayor = decena;
         if (centena > mayor) mayor = centena;
         if (unidad > mayor) mayor = unidad;
 
-        // Encontrar la menor cifra
-        int menor = millar; // Inicializamos con millar
+        int menor = millar; 
         if (decena < menor) menor = decena;
         if (centena < menor) menor = centena;
         if (unidad < menor) menor = unidad;
 
-        // Formar el mayor número de dos cifras
         int mayorNumero = mayor * 10 + menor;
 
-        // Mostrar el resultado
         txtMayorNumero.setText(String.valueOf(mayorNumero));
     }
 }
