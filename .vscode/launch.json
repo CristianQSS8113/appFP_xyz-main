@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frm15",
+            "request": "launch",
+            "mainClass": "secuenciales.frm15",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm14",
+            "request": "launch",
+            "mainClass": "secuenciales.frm14",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm13",
+            "request": "launch",
+            "mainClass": "secuenciales.frm13",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
             "name": "frm12",
             "request": "launch",
             "mainClass": "secuenciales.frm12",
