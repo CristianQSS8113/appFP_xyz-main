@@ -40,15 +40,15 @@ public class frm08 extends JFrame {
         lblAltura.setBounds(50, 90, 80, 30);
         getContentPane().add(lblAltura);
 
-        JLabel lblAreaBase = new JLabel("Área Base:");
+        JLabel lblAreaBase = new JLabel("Area Base:");
         lblAreaBase.setBounds(50, 130, 80, 30);
         getContentPane().add(lblAreaBase);
 
-        JLabel lblAreaLateral = new JLabel("Área Lateral:");
+        JLabel lblAreaLateral = new JLabel("Area Lateral:");
         lblAreaLateral.setBounds(50, 170, 80, 30);
         getContentPane().add(lblAreaLateral);
 
-        JLabel lblAreaTotal = new JLabel("Área Total:");
+        JLabel lblAreaTotal = new JLabel("Area Total:");
         lblAreaTotal.setBounds(50, 210, 80, 30);
         getContentPane().add(lblAreaTotal);
 
