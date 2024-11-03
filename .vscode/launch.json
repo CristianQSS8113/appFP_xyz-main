@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frm13",
+            "request": "launch",
+            "mainClass": "repetitivos.frm13",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
             "name": "frm31",
             "request": "launch",
             "mainClass": "condicionales.frm31",
