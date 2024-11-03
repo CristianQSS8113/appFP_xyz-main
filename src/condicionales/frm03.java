@@ -24,7 +24,7 @@ public class frm03 extends JFrame {
 
     public frm03() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setBounds(0, 0, 400, 250);
+        setBounds(0, 0, 400, 350);
         setLayout(null);
         setLocationRelativeTo(null);
 

@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frm31",
+            "request": "launch",
+            "mainClass": "condicionales.frm31",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm36",
+            "request": "launch",
+            "mainClass": "condicionales.frm36",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm23",
+            "request": "launch",
+            "mainClass": "condicionales.frm23",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm27",
+            "request": "launch",
+            "mainClass": "condicionales.frm27",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm32",
+            "request": "launch",
+            "mainClass": "condicionales.frm32",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm39",
+            "request": "launch",
+            "mainClass": "condicionales.frm39",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm34",
+            "request": "launch",
+            "mainClass": "condicionales.frm34",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm21",
+            "request": "launch",
+            "mainClass": "condicionales.frm21",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
             "name": "frm40",
             "request": "launch",
             "mainClass": "condicionales.frm40",

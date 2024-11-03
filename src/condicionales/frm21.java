@@ -24,7 +24,7 @@ public class frm21 extends JFrame {
 
     public frm21() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setBounds(0, 0, 350, 250);
+        setBounds(0, 0, 350, 350);
         setLayout(null);
         setLocationRelativeTo(null);
 
