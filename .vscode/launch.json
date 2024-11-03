@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frmEsBinario",
+            "request": "launch",
+            "mainClass": "recursividad.frmEsBinario",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm02",
+            "request": "launch",
+            "mainClass": "recursividad.frm02",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "recursividad.frm01",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
             "name": "frm13",
             "request": "launch",
             "mainClass": "repetitivos.frm13",
