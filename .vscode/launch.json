@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frm40",
+            "request": "launch",
+            "mainClass": "condicionales.frm40",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
             "name": "frm03",
             "request": "launch",
             "mainClass": "condicionales.frm03",
