@@ -61,7 +61,7 @@ public class frm07 extends JFrame {
         lblResultado.setText(esPalindromo ? "El número es palíndromo." : "El número no es palíndromo.");
     }
 
-    // Método recursivo para comprobar si un número es palíndromo (igual de izquierda a derecha)
+    // para comprobar si un número es palíndromo (igual de izquierda a derecha)
     public boolean esNumeroPalindromo(String numero) {
         return esNumeroPalindromoRecursivo(numero, 0, numero.length() - 1);
     }

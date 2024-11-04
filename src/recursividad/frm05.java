@@ -74,7 +74,7 @@ public class frm05 extends JFrame {
         lblResultado.setText("MCD de " + num1 + " y " + num2 + " es: " + resultado);
     }
 
-    // Método recursivo para calcular el MCD usando el algoritmo de Euclides
+    // para calcular el MCD usando el algoritmo de Euclides
     public int mcd(int a, int b) {
         if (b == 0) {
             return a;

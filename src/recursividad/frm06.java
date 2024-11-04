@@ -74,12 +74,12 @@ public class frm06 extends JFrame {
         lblResultado.setText("MCM de " + num1 + " y " + num2 + " es: " + resultado);
     }
 
-    // Método para calcular el MCM utilizando el MCD
+    //  para calcular el MCM utilizando el MCD
     public int mcm(int a, int b) {
         return (a * b) / mcd(a, b);
     }
 
-    // Método recursivo para calcular el MCD usando el algoritmo de Euclides
+    //para calcular el MCD usando el algoritmo de Euclides
     public int mcd(int a, int b) {
         if (b == 0) {
             return a;

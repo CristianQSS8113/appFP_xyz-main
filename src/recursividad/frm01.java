@@ -78,7 +78,7 @@ public class frm01 extends JFrame {
 		lblResultado.setText(base + "^" + exponente + " = " + resultado);
 	}
 
-	// Método recursivo para calcular la potencia
+	//para calcular la potencia
 	public int potencia(int base, int exponente) {
 		if (exponente == 0) return 1;
 		return base * potencia(base, exponente - 1);

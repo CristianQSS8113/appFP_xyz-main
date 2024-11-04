@@ -61,7 +61,7 @@ public class frm04 extends JFrame {
         lblResultado.setText("La suma de los dígitos de " + numero + " es: " + resultado);
     }
 
-    // Método recursivo para calcular la suma de los dígitos de un número
+    //  para calcular la suma de los dígitos de un número
     public int sumaDigitos(int n) {
         if (n == 0) {
             return 0;
