@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frm05",
+            "request": "launch",
+            "mainClass": "recursividad.frm05",
+            "projectName": "appFP_xyz"
+        },
+        {
+            "type": "java",
             "name": "frmEsBinario",
             "request": "launch",
             "mainClass": "recursividad.frmEsBinario",
